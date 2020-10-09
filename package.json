@@ -1,7 +1,7 @@
 {
   "name": "emf-workshop",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example of how AWS Embedded Metric Format works",
   "keywords": [
     "AWS",
     "CloudWatch",
