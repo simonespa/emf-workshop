@@ -1,0 +1,22 @@
+{
+  "name": "emf-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "AWS",
+    "CloudWatch",
+    "EMF",
+    "Logging",
+    "Monitoring"
+  ],
+  "author": {
+    "name": "Simone Spaccarotella",
+    "email": "spa.simone@gmail.com",
+    "url": "https://github.com/simonespa"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "aws-embedded-metrics": "^2.0.0",
+    "aws-sdk": "^2.767.0"
+  }
+}
